@@ -1,2 +1,4 @@
 # hello_world
-just random ideas or comments regarding my work
+
+Hello humans ,
+Just new to the place
